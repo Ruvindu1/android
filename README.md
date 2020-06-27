@@ -1,4 +1,4 @@
-<p style="font-size:100;">termux users</p><br>
+<h1>termux users</h1><br>
 pkg update && pkg upgrade<br>
 pkg install git<br>
 pkg install python<br>
@@ -7,4 +7,15 @@ cd android<br>
 python m.py<br>
 Enter authorize<br>
 Enter Url<br>
-Enter number of requests 
+Enter number of requests<br>
+
+<h2>Pc user</h2>
+Download python <br>
+open cmd <br>
+Download file this link <br>
+&nbsp &nbsp https://github.com/rahool-l/android.git<br>
+Type cmd cd (folder location) ok and <br>
+python m.py<br>
+Enter authorize<br>
+Enter Url<br>
+Enter number of requests<br>
