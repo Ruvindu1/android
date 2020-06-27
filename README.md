@@ -1,9 +1,9 @@
 pkg update && pkg upgrade<br>
-pkg install git
-pkg install python
-git clone https://github.com/rahool-l/android.git
-cd android
-python m.py
-Enter authorize
-Enter Url
+pkg install git<br>
+pkg install python<br>
+git clone https://github.com/rahool-l/android.git<br>
+cd android<br>
+python m.py<br>
+Enter authorize<br>
+Enter Url<br>
 Enter number of requests 
