@@ -1,4 +1,4 @@
-<font size=20>termux users</font><br>
+<h1>termux users</h1><br>
 pkg update && pkg upgrade<br>
 pkg install git<br>
 pkg install python<br>
