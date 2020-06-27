@@ -9,7 +9,7 @@ Enter authorize<br>
 Enter Url<br>
 Enter number of requests<br>
 
-<h2>Pc user</h2>
+<h1>Pc uses</h1>
 Download python <br>
 open cmd <br>
 Download file this link <br>
