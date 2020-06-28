@@ -1,7 +1,7 @@
 <h1>termux users</h1><br>
 pkg update && pkg upgrade<br>
-pkg install git<br>
 pkg install python<br>
+pkg install git<br>
 git clone https://github.com/rahool-l/android.git<br>
 cd android<br>
 python mega.py<br>
