@@ -1,4 +1,4 @@
-<h1>termux users</h1><br>
+<h1>termux users with mobiles</h1><br>
 pkg update && pkg upgrade<br>
 pkg install python<br>
 pkg install git<br>
